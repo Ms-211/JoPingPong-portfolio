@@ -4,7 +4,15 @@
 
 실제 운영에 사용한 프로젝트이며 기획·설계·개발·배포를 개인이 담당했습니다. 이 저장소는 **코드와 설계 경험을 소개하는 별도 공개본**입니다. 운영 데이터·환경변수·서비스 주소·기존 Git 이력을 포함하지 않으며 운영으로 자동 배포되지 않습니다.
 
-[프로젝트 요약](docs/project-summary.md) · [시스템 구조](docs/architecture.md) · [DB 설계](docs/database.md) · [문제 해결](docs/troubleshooting.md) · [보안과 검증 범위](docs/security-review.md)
+## 문서
+
+| 문서 | 내용 |
+| --- | --- |
+| [project-summary.md](docs/project-summary.md) | 프로젝트 개요·담당 역할·주요 경험 |
+| [architecture.md](docs/architecture.md) | 시스템 구조·데이터 흐름·인증과 권한 |
+| [database.md](docs/database.md) | 데이터 모델·제약조건·업무 규칙 |
+| [troubleshooting.md](docs/troubleshooting.md) | 문제 해결 과정과 SQL·테스트 근거 |
+| [security-review.md](docs/security-review.md) | 공개 범위·보안 보호 장치·검증과 제한사항 |
 
 ## 개발 배경
 
