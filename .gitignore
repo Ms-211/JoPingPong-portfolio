@@ -1,0 +1,30 @@
+# dependencies
+/node_modules
+/.npm-cache
+
+# Next.js and OpenNext build output
+/.next
+/.open-next
+/out
+
+# Cloudflare local state
+/.wrangler
+/supabase/.temp
+
+# test output
+/coverage
+
+# local environment files (keep the documented template)
+.env*
+!.env.example
+
+# logs and editor files
+*.log
+.DS_Store
+Thumbs.db
+
+# TypeScript incremental state
+*.tsbuildinfo
+
+/supabase/.branches
+
