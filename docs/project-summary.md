@@ -19,7 +19,7 @@ Next.js 16 · React 19 · TypeScript · Supabase PostgreSQL/Auth/Storage · RLS 
 
 ## 공개 범위
 
-운영 데이터·주소·기존 Git 이력을 제외했습니다. 샘플 계정과 회원은 로컬 전용이며 운영으로 자동 배포하지 않습니다. 측정하지 않은 처리량·업무 시간 절감은 성과로 기재하지 않습니다.
+운영 데이터·기존 Git 이력을 제외했습니다. 운영 서비스 주소는 README에 안내하며 관계자 계정이 필요합니다. 샘플 계정과 회원은 로컬 전용이며 운영으로 자동 배포하지 않습니다. 측정하지 않은 처리량·업무 시간 절감은 성과로 기재하지 않습니다.
 
 [README](../README.md) · [DB 설계](database.md) · [문제 해결](troubleshooting.md)
 
